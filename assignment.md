@@ -60,9 +60,24 @@ User story: As a librarian, I want to be able to register new books, so that I c
 
 - To input new book title, synopsis, date meta keywords.
 - To upload book cover picture onto the website.
+- To generate a book id
 - To add a "new" meta tag and push the the 'new title' section.
 
 ````
+
+Question 4 (new challenge): Define story points based on the ACs.
+```
+User story: As someone who returns books late, I want to pay the overdue fine, so that my book borrowing limit can be lifted.
+Story point(8)
+
+
+User story: As a reader, I want to be able to search a book, so that I know the shelf location and its availability.
+Story point(5)
+
+
+User story: As a librarian, I want to be able to register new books, so that I can expand the library collection.
+Story point(5)
+```
 
 
 ### Submission
